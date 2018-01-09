@@ -18,4 +18,4 @@ Console.Writeline("Hello World");
 I am learning about
 
 - Creating  a git repository (online, and on my computer)
--synchronizing my git repository on [GitHub] (https://github.com)
+-synchronizing my git repository on [GitHub](https://github.com)
